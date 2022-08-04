@@ -1,0 +1,40 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+template
+ex02/src/main.dSYM/Contents/Info.plist
+ex02/src/main.dSYM/Contents/Resources/DWARF/main
+ex02/src/Array.dSYM/Contents/Info.plist
+ex02/src/main
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
